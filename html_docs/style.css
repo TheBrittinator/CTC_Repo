@@ -1,0 +1,101 @@
+h1{
+    font-size: 80px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h3{
+    margin-top: 0px;
+    margin-bottom: 50px;
+    font-size: 30px
+}
+
+h4{
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-size: 30px
+}
+
+h5{
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-size: 30px
+}
+
+.hampshire{
+    height: 400px;
+    width: 1000px;
+    background-image: url("https://cdn.britannica.com/96/101796-050-D0620629/Perch-Pond-Campton-New-Hampshire.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}    
+
+.form1{
+    width: 1000px;
+    height: 400px;
+    margin: 80px 160px 60px 160px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.text1{
+    width: 500px;
+    height: 500px;
+}
+
+.bird-with-text{
+    height: 400px;
+    width: 400px;
+    background-image: url("https://birdingbnb.com/wp-content/uploads/2020/12/male-purple-finch-all-about-birds-1024x768.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+/*  */
+.form2{
+    width: 1000px;
+    height: 400px;
+    margin: 60px 160px 60px 160px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.state-park-img{
+    height: 400px;
+    width: 400px;
+    background-image: url("https://hipcamp-res.cloudinary.com/image/upload/c_limit,f_auto,h_1200,q_60,w_1920/v1630697761/park_images/poi/us/slgcnob4ste5evvxmill.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+/*  */
+.form3{
+    width: 1000px;
+    height: 400px;
+    margin: 60px 160px 60px 160px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.flower-with-text{
+    height: 400px;
+    width: 400px;
+    background-image: url("https://www.westonnurseries.com/wp-content/uploads/2021/04/AdobeStock_148541659-scaled-1-1024x700.jpeg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 1000px;
+    margin: 160px;
+}
