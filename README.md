@@ -5,7 +5,7 @@ Version control for my coding classwork
 - Keep html files here.
 
 # Note to Collaborators:
-- learning github version control is SUPER useful. A lot of your projects are shareable from here, great for setting up a portfolio. I have on on my page if you would like to check it out. The link to the repo is here :  [My Portfolio](https://thebrittinator.github.io/Britt-s_portfolio/)
+- learning github version control is SUPER useful. A lot of your projects are shareable from here, and it's great for setting up a portfolio. I have one on my page if you would like to check it out. The link to the repo is here :  [My Portfolio](https://thebrittinator.github.io/Britt-s_portfolio/)
 
 ### You can launch a Jekyl website for your portfolio with Github too! Good practice to get familiar with the site.
 - A youtube video that can help you get introduced to collaborating with Github repositories is here [Youtube](https://www.youtube.com/watch?v=4nyIS58ORWw)
